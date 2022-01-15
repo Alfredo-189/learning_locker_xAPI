@@ -98,7 +98,7 @@
     "mocha": "6.2.1",
     "nyc": "11.9.0",
     "rimraf": "2.7.1",
-    "shelljs": "0.8.3",
+    "shelljs": "0.8.5",
     "simple-git": "1.126.0",
     "supertest": "3.4.2",
     "tslint": "5.20.0",
